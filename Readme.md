@@ -1,4 +1,5 @@
 welcome to my git
 welcome to my git
 welcome to my git
-welcome to my gitleaning
+<<<<<<< HEAD
+welcome to my gitleaning and git git git
